@@ -1,19 +1,4 @@
-如下是C++后台研发技术路线以及知识点，这里有很多细节，还需要不断完善。 
-
-欢迎大家[提交PR](https://www.programmercarl.com/qita/join.html)来一起完善这个知识库，成为contributor！ 
-
-👉 如果你是编程零基础，或者想入门C++，推荐 [【卡码网】C++基础课](https://kamacoder.com/course.php?course_id=1)
-👉 如果你有C++基础，想手写STL，推荐 [【卡码网】手写简单版本STL（C++）](https://kamacoder.com/course.php?course_id=10)
-
-
-# C++primer B站视频讲解 
-
-* [学习C++书籍推荐](https://www.bilibili.com/video/BV1rK4y1e7ed)
-* [听说C++ primer 太厚了 看不进去？](https://www.bilibili.com/video/BV1Z5411874t)
-* [C++ primer 第一章，你要知道的知识点还有这些！](https://www.bilibili.com/video/BV1Kv41117Ya)
-* [C++ primer 第二章，前两节](https://www.bilibili.com/video/BV1MA411j74g)
-
-（玩命更新ing...）
+**forked from: github.com/youngyangyang04/TechCPP **
 
 # 编程语言C++
 
