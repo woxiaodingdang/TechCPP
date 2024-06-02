@@ -1,4 +1,4 @@
-**forked from: github.com/youngyangyang04/TechCPP **
+**forked from: https://github.com/youngyangyang04/TechCPP** 
 
 # 编程语言C++
 
@@ -173,103 +173,54 @@
 # 计算机网络
 
 * [OSI七层模型分别是？各自的功能分别是什么？](./problems/OSI七层模型分别是？各自的功能分别是什么？.md)
-
 * [为什么需要三次握手，两次不行？](./problems/为什么需要三次握手，两次不行？.md)
-
 * [TCP和UDP区别](./problems/TCP和UDP区别.md)
-
 * [TCP和UDP各自的有点](./problems/TCP和UDP的区别.md)
-
 * [TCP和UDP的首部长什么样子](./problems/TCP和UDP首部长什么样子？.md)
-
 * [TCP和UDP头部字节定义](./problems/TCP和UDP头部字节定义.md) 
-
 * [TCP和UDP三次握手和四次挥手状态及消息类型](./problems/TCP和UDP三次握手和四次挥手状态及消息类型.md) 
-
 * [time_wait，close_wait状态产生原因，keepalive](./problems/time_wait，close_wait状态产生原因，keepalive.md)
-
 * [什么是滑动窗口，超时重传](./problems/什么是滑动窗口，超时重传.md)
-
 * [列举你所知道的tcp选项](./problems/列举你所知道的tcp选项.md)
-
 * [socket什么情况下可读？](./problems/socket什么情况下可读？.md)
-
 * [connect会阻塞，怎么解决?(必考必问)](./problems/connect会阻塞怎么解决.md) 
-
 * [keepalive是什么？如何使用？](./problems/keepalive是什么？如何使用？.md)
-
 * [长连接和短连接](./problems/长连接和短连接.md) 
-
 * [UDP中使用connect的好处](./problems/UDP中使用connect的好处.md) 
-
 * [DNS和HTTP协议，HTTP请求方式](./problems/DNS和HTTP协议，HTTP请求方式.md) 
-
 * [SYN队列和ACCEPT队列](./problems/SYN队列和Accept队列.md)
-
 * [SYN队列溢出了怎么办](./problems/SYN队列溢出了怎么办.md)
-
 * [什么是数字签名？](./problems/什么是数字签名？.md)
-
 * [什么是数字证书？](./problems/什么是数字证书？.md)
-
 * [什么是大小端，他在计算机网络中都有什么应用呢](./problems/什么是大小端，他在计算机网络中都有什么应用呢.md)
-
 * [局域网的IP分配策略是什么？它是怎么实现的？](./problems/局域网的IP分配策略是什么？它是怎么实现的？.md)
-
 * [在TCP三次握手的时候，如果网络情况非常好且百分百不会发生拥塞，不会重传，不会有历史链接问题，那么三次握手可以改为两次吗？](./problems/在TCP三次握手的时候，如果网络情况非常好且百分百不会发生拥塞，不会重传，不会有历史链接问题，那么三次握手可以改为两次吗？.md)
-
 * [请你介绍一下http1.0](./problems/请你介绍一下http1.0.md)
-
 * [请你介绍一下http1.1](./problems/请你介绍一下http1.1.md)
-
 * [请你介绍一下http2.0](./problems/请你介绍一下http2.0.md)
-
 * [请你介绍一下http3.0](./problems/请你介绍一下http3.0.md)
-
 * [POST和GET的主要区别有那些？](./problems/POST和GET的主要区别有那些？.md)
-
 * [GET请求中，URL编码有什么含义？](./problems/GET请求中，URL编码有什么含义？.md)
-
 * [HTTP方法都有那些？](./problems/HTTP方法都有那些？.md)
-
 * [HTTP中常用的状态码都有那些？](./problems/HTTP中常用的状态码都有那些？.md)
-
 * [HTTP长连接和短链接都用在那些场景？](./problems/HTTP长连接和短链接都用在那些场景？.md)
-
 * [对称加密和非对称加密的区别都有那些？](./problems/对称加密和非对称加密的区别都有那些？.md)
-
 * [DNS解析的过程？](./problems/DNS解析的过程？.md)
-
 * [为什么DNS会使用UDP而不使用TCP呢？](./problems/为什么DNS会使用UDP而不使用TCP呢？.md)
-
 * [Cookie和Session](./problems/Cookie和SessioN.md)
-
 * [DNS域名缓存是什么？](./problems/DNS域名缓存是什么？.md)
-
 * [TCP和UDP对应常见的应用层协议有那些](./problems/TCP和UDP对应常见的应用层协议有那些.md)
-
 * [说说你对TCP滑动窗口的理解？](./problems/说说你对TCP滑动窗口的理解？.md)
-
 * [TCP协议是如何保证可靠传输的？](./problems/TCP协议是如何保证可靠传输的？.md)
-
 * [什么是拆包和粘包？](./problems/什么是拆包和粘包？.md)
-
 * [说说你对TCP流量控制的理解？](./problems/说说你对TCP流量控制的理解？.md)
-
 * [TCP粘包是怎么产生的？](./problems/TCP粘包是怎么产生的？.md)
-
 * [在TCP拥塞控制中，使用了什么样的算法？](./problems/在TCP拥塞控制中，使用了什么样的算法？.md)
-
 * [forward和redirect的区别是什么？](./problems/forward和redirect的区别是什么？.md)
-
 * [TCP的最大连接数是多少？](./problems/TCP的最大连接数是多少？.md)
-
 * [什么是IP地址？可以简单介绍下吗？](./problems/什么是IP地址？可以简单介绍下吗？.md)
-
 * [什么是mac地址？可以简单介绍下吗？](./problems/什么是mac地址？可以简单介绍下吗？.md)
-
 * [ip地址和mac地址的区别都有那些？](./problems/ip地址和mac地址的区别都有那些？.md)
-
 * [针对于ipv4地址不够用的情况，我们是如何解决的？](,.problems/针对于ipv4地址不够用的情况，我们是如何解决的？.md)
 
   
@@ -305,7 +256,7 @@
 * [介绍 SDS，Redis 为什么要使用 SDS 而不是 C 字符串](./problems/介绍SDS，Redis为什么要使用SDS而不是C字符串.md)
 * [介绍 dict，什么是 rehash？什么是渐进式 rehash](./problems/介绍dict，什么是rehash？什么是渐进式rehash.md)
 * [介绍 ziplist，什么是连锁更新？quicklist、lispack](./problems/介绍ziplist，什么是连锁更新？quicklist、lispack.md)
-* [介绍 Redis 的 skiplist](./problems/介绍Redis的skiplist.md)
+* [介绍 Redis 的 skiplist](./problems/介绍 Redis的skiplist.md)
 * [Redis 数据类型（对象）有哪些](./problems/Redis数据类型（对象）有哪些.md)
 * [Redis String 原理和使用场景（分布式锁）](./problems/RedisString原理和使用场景（分布式锁）.md)
 * [Redis List 的原理和使用场景](./problems/RedisList的原理和使用场景.md)
