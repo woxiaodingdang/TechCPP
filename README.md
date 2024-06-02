@@ -159,7 +159,6 @@
     * [select 模型和 poll 模型，epoll模型](./problems/select模型和poll模型epoll模型.md)
     * [socket服务端的实现，select和epoll的区别(必问)](./problems/socket服务端的实现，select和epoll的区别.md)
     * [epoll哪些触发模式，有啥区别？](./problems/epoll哪些触发模式，有啥区别？.md)
-
 * [用户态和内核态的区别](./problems/用户态和内核态的区别.md)
 * [linux文件系统：inode，inode存储了哪些东西，目录名，文件名存在哪里](./problems/linux文件系统：inode，inode存储了哪些东西，目录名，文件名存在哪里.md)
 * [分段和分页的区别有那些？](./problems/分段和分页的区别有那些？.md)
@@ -256,7 +255,7 @@
 * [介绍 SDS，Redis 为什么要使用 SDS 而不是 C 字符串](./problems/介绍SDS，Redis为什么要使用SDS而不是C字符串.md)
 * [介绍 dict，什么是 rehash？什么是渐进式 rehash](./problems/介绍dict，什么是rehash？什么是渐进式rehash.md)
 * [介绍 ziplist，什么是连锁更新？quicklist、lispack](./problems/介绍ziplist，什么是连锁更新？quicklist、lispack.md)
-* [介绍 Redis 的 skiplist](./problems/介绍 Redis的skiplist.md)
+* [介绍 Redis 的 skiplist](./problems/介绍%20Redis的skiplist.md)
 * [Redis 数据类型（对象）有哪些](./problems/Redis数据类型（对象）有哪些.md)
 * [Redis String 原理和使用场景（分布式锁）](./problems/RedisString原理和使用场景（分布式锁）.md)
 * [Redis List 的原理和使用场景](./problems/RedisList的原理和使用场景.md)
